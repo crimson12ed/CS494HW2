@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<people>
+	<person>
+		<name>Alex Oo</name>
+		<email>axxxxxx@gmail.com</email>
+	</person>
+	<person>
+		<name>Andrew Goetz</name>
+		<email>andxxxxxx@gmail.com</email>
+	</person>
+	<person>
+		<name>Christopher Alexander</name>
+		<email>alexxxxxx@gmail.com</email>
+	</person>
+	<person>
+		<name>Marshall Todt</name>
+		<email>marxxxxxx@gmail.com</email>
+	</person>
+	<person>
+		<name>Mikael Magnuson</name>
+		<email>mikxxxxxx@gmail.com</email>
+	</person>
+	<person>
+		<name>Preston Skaggs</name>
+		<email>prexxxxxx@gmail.com</email>
+	</person>
+</people>
